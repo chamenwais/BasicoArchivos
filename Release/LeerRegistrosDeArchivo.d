@@ -1,0 +1,1 @@
+LeerRegistrosDeArchivo.o: ../LeerRegistrosDeArchivo.c
